@@ -8,7 +8,7 @@ class TelaFinal extends StatelessWidget {
 
   String get fraseResultado {
     if (pontuacao < 10) {
-      return "Você acertou nenhuma questão. Que pena ☹️";
+      return "Você acertou nenhuma questão. Que pena 🥺😞";
     } else if (pontuacao < 20) {
       return "Você acertou uma questão";
     } else if (pontuacao < 30) {
